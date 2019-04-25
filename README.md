@@ -1,2 +1,2 @@
 # htb
-htb challenges (retired)
+My notes for retired HTB challenges will go here.
